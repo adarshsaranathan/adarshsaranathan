@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+This is the practice repo for the BSA workshop. I am now editing the README. Go A's and Rams. 
